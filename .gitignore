@@ -1,0 +1,8 @@
+/node_modules/
+/improvement
+/bower_components/
+npm-debug.log
+/npm-debug.log.*
+.idea
+/logs/
+
